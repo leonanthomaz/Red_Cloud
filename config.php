@@ -1,0 +1,13 @@
+<?php
+
+//Geral
+DEFINE('APP_NAME', 'NOME_DO_PROJETO');
+DEFINE('BASE_URL', 'CAMINHO_ABSOLUTO_URL/app/views/');
+DEFINE('ROUTE_MAIN', 'index');
+
+//MySQL
+DEFINE('MYSQL_SERVER', 'localhost');
+DEFINE('MYSQL_DATABASE', '');
+DEFINE('MYSQL_USER', 'root');
+DEFINE('MYSQL_PASS', '');
+DEFINE('MYSQL_CHARSET', 'utf8');

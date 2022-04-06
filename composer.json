@@ -1,0 +1,19 @@
+{
+    "name": "leonanthomaz/redcloud",
+    "description": "Miniframework em PHP",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        },
+        "files": [
+            "config.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "leonanthomaz",
+            "email": "leonan.thomaz@gmail.com"
+        }
+    ],
+    "require": {}
+}
